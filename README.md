@@ -15,7 +15,7 @@ TFG APP Gestión de laboratorio Proyecot LODOS curso 23/24
 
 - Coloca el proyecto “Try_3nuevo” en la carpeta htdocs de XAMP. 
 
-- Accede a través de la url en tu navegador (Preferible ventana de incognito 		 para el cache).  http://localhost/Try_3nuevo/Vistas/index.php  
+- Accede a través de la url en tu navegador (Preferible ventana de incognito 		 para el cache).  http://localhost/Try_3nuevo/index.php  
 
 - Ve a PHPMyAdmin en BD consulta un nombreUsuario y contrasena de un 		usuario de tipo admin y otro de tipo operario para hacer pruebas 
 
@@ -29,4 +29,5 @@ nombreUsuario: Juan
 contrasena: JUAN
 -------------------------------
 
-- Prueba las distintas funcionalidades a través del menú de navegación de la 		izquierda. 
+- Prueba las distintas funcionalidades a través del menú de navegación de la izquierda.
+

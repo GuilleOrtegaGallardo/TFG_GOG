@@ -7,7 +7,7 @@ TFG APP Gestión de laboratorio Proyecot LODOS curso 23/24
 
 - Instalar XAMP  
 
-- Descargar el proyecto (De gitHub ).  
+- Descargar el proyecto (De gitHub  https://github.com/GuilleOrtegaGallardo/TFG_GOG.git ).  
 
 - Activar en XAMP Apache y MySQL. (El puerto de MySQL es 3306 en la 		configuración por defecto, está preparado el archivo config.php para cambiar 	el puerto de ser necesario). 
 

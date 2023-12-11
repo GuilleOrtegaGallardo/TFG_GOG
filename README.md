@@ -29,5 +29,8 @@ nombreUsuario: Juan
 contrasena: JUAN
 -------------------------------
 
+
 - Prueba las distintas funcionalidades a través del menú de navegación de la izquierda.
 
+
+------ PUEDES ACCEDER a la aplicación desplegada en un servidor 000webhostapp  a través de este enlace ---->    https://guillermolortega.000webhostapp.com/
